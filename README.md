@@ -3,7 +3,7 @@
 ##Sobre el trabajo especial de grado 
 
 
-##Integrantes
+##Autores
 
 ##ToDo
 
