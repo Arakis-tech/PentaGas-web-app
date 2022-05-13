@@ -1,12 +1,26 @@
+## Link to Our App Live on the Web
+[App-PentaGas](http://157.245.85.16:3000/)
+
 # Diseño de un sistema de gestión de pedidos 
 
-##Sobre el trabajo especial de grado 
+Diseñar un sistema de gestión de pedidos en la 
+Empresa Penta Gas, C.A. a partir de un prototipo basado en 
+Las funcionalidades y requerimientos.
 
+## Autores
 
-##Autores
+* Luis Aranguren
+* Alfonso Pereira
 
-##ToDo
-
-##Licencia
-
-###Atribución-Compartir Obras Derivadas  3.0 Unported  Creative Commons
+## Documento
+* RESUMEN
+* ABSTRACT
+* INTRODUCCIÓN
+* EL PROBLEMA
+* MARCO TEÓRICO
+* MARCO METODOLÓGICO
+* ANÁLISIS E INTERPRETACIÓN DE LOS RESULTADOS
+* MARCO PRAXOLÓGICO
+* CONCLUSIONES Y RECOMENDACIONES
+* REFERENCIAS
+* ANEXOS
