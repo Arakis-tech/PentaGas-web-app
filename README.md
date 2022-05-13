@@ -7,7 +7,7 @@ Empresa Penta Gas, C.A. a partir de un prototipo basado en
 Las funcionalidades y requerimientos.
 
 ## Link to Our App Live on the Web
-[App-PentaGas](https://www.justinmind.com/usernote/tests/71293587/71294139/71294141/index.html)
+[Penta-Gas](https://www.justinmind.com/usernote/tests/71293587/71294139/71294141/index.html)
 ## Autores
 
 * Luis Aranguren
